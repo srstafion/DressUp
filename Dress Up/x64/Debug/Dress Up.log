@@ -1,0 +1,5 @@
+﻿  Dress Up.cpp
+C:\Users\Denis pipis\source\repos\SkinSystem\Dress Up\Dress Up.cpp(94,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\SkinSystem\Dress Up\Dress Up.cpp(124,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Denis pipis\source\repos\SkinSystem\Dress Up\Dress Up.cpp(154,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Dress Up.vcxproj -> C:\Users\Denis pipis\source\repos\SkinSystem\Dress Up\x64\Debug\Dress Up.exe
